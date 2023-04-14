@@ -1,0 +1,64 @@
+
+
+
+.header_box {
+    border: 5px dotted coral;
+}
+
+h1 {
+    font-size: 100px;
+    color: red;
+    margin: 50px 30px;
+    padding: 30px ;
+    border: 6px solid rgb(18, 60, 159);
+    text-align: center;
+}
+
+h1:hover {
+    font-size: 120px;
+}
+
+
+.tea {
+    font-size: 30px;
+    color: rgb(18, 60, 159);
+}
+
+.imperial {
+    margin: 0px 20px;
+}
+
+.flag {
+    border: 1px solid black;
+    width: auto;
+    height: 85px;
+}
+
+
+.second__header {
+    font-size: 40px;
+    color: blue;
+}
+
+
+
+.section-1 {
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    border: 1px solid red;   
+}
+
+.hymn__header {
+    color: firebrick;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 200px;
+    font-size: 50px;
+}
+
+
+
+
+
